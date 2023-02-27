@@ -1,2 +1,5 @@
 # desafio-github-Dio
-Repositório para, projeto de desafio sobre o git/hub da Digital Innovation One.
+Repositório para projetos sobre git/github.
+
+## Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
